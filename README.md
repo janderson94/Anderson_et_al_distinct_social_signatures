@@ -1,2 +1,5 @@
-# Anderson_et_al_distinct_social_signatures
-Github repository for results and figures from Anderson et al. "Distinct gene regulatory signatures of dominance rank and social bond strength in wild baboons". 
+![](./misc/baboons.png)
+
+# Anderson_et_al_PhilTrans
+Github repo for Anderson et al. 2021 Philosophical transactions
+
