@@ -7,8 +7,11 @@
 
 # User-specific files
 .Ruserdata
+<<<<<<< HEAD
 figures.R
 panubis1.gtf
+=======
+>>>>>>> 0d414e0f1c4a29fe3d2679e6053def3c2c243d78
 
 # Example code in package build process
 *-Ex.R
