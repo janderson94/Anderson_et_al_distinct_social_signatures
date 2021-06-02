@@ -13,6 +13,9 @@ panubis1.gtf
 =======
 >>>>>>> 0d414e0f1c4a29fe3d2679e6053def3c2c243d78
 
+.DS_Store
+
+
 # Example code in package build process
 *-Ex.R
 
